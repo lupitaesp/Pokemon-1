@@ -95,7 +95,13 @@
     }, {
       "num": "002",
       "name": "Ivysaur"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 4,
     "num": "004",
@@ -183,7 +189,13 @@
     }, {
       "num": "005",
       "name": "Charmeleon"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 7,
     "num": "007",
@@ -267,7 +279,13 @@
     }, {
       "num": "008",
       "name": "Wartortle"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 10,
     "num": "010",
@@ -360,7 +378,13 @@
     }, {
       "num": "011",
       "name": "Metapod"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 13,
     "num": "013",
@@ -459,7 +483,13 @@
     }, {
       "num": "014",
       "name": "Kakuna"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 16,
     "num": "016",
@@ -549,7 +579,13 @@
     }, {
       "num": "017",
       "name": "Pidgeotto"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 19,
     "num": "019",
@@ -599,7 +635,13 @@
     "prev_evolution": [{
       "num": "019",
       "name": "Rattata"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 21,
     "num": "021",
@@ -653,7 +695,13 @@
     "prev_evolution": [{
       "num": "021",
       "name": "Spearow"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 23,
     "num": "023",
@@ -705,7 +753,13 @@
     "prev_evolution": [{
       "num": "023",
       "name": "Ekans"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 25,
     "num": "025",
@@ -752,7 +806,13 @@
     "prev_evolution": [{
       "num": "025",
       "name": "Pikachu"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 27,
     "num": "027",
@@ -803,7 +863,13 @@
     "prev_evolution": [{
       "num": "027",
       "name": "Sandshrew"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 29,
     "num": "029",
@@ -896,7 +962,13 @@
     }, {
       "num": "030",
       "name": "Nidorina"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 32,
     "num": "032",
@@ -986,7 +1058,13 @@
     }, {
       "num": "033",
       "name": "Nidorino"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 35,
     "num": "035",
@@ -1036,7 +1114,13 @@
     "prev_evolution": [{
       "num": "035",
       "name": "Clefairy"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 37,
     "num": "037",
@@ -1090,7 +1174,13 @@
     "prev_evolution": [{
       "num": "037",
       "name": "Vulpix"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 39,
     "num": "039",
@@ -1137,7 +1227,13 @@
     "prev_evolution": [{
       "num": "039",
       "name": "Jigglypuff"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 41,
     "num": "041",
@@ -1195,7 +1291,13 @@
     "prev_evolution": [{
       "num": "041",
       "name": "Zubat"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 43,
     "num": "043",
@@ -1288,7 +1390,13 @@
     }, {
       "num": "044",
       "name": "Gloom"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 46,
     "num": "046",
@@ -1347,7 +1455,13 @@
     "prev_evolution": [{
       "num": "046",
       "name": "Paras"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 48,
     "num": "048",
@@ -1405,7 +1519,13 @@
     "prev_evolution": [{
       "num": "048",
       "name": "Venonat"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 50,
     "num": "050",
@@ -1456,7 +1576,13 @@
     "prev_evolution": [{
       "num": "050",
       "name": "Diglett"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 52,
     "num": "052",
@@ -1503,7 +1629,13 @@
     "prev_evolution": [{
       "num": "052",
       "name": "Meowth"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 54,
     "num": "054",
@@ -1552,7 +1684,13 @@
     "prev_evolution": [{
       "num": "054",
       "name": "Psyduck"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 56,
     "num": "056",
@@ -1606,7 +1744,13 @@
     "prev_evolution": [{
       "num": "056",
       "name": "Mankey"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 58,
     "num": "058",
@@ -1660,7 +1804,13 @@
     "prev_evolution": [{
       "num": "058",
       "name": "Growlithe"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 60,
     "num": "060",
@@ -1751,7 +1901,13 @@
     }, {
       "num": "061",
       "name": "Poliwhirl"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 63,
     "num": "063",
@@ -1841,7 +1997,13 @@
     }, {
       "num": "064",
       "name": "Kadabra"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 66,
     "num": "066",
@@ -1931,7 +2093,13 @@
     }, {
       "num": "067",
       "name": "Machoke"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 69,
     "num": "069",
@@ -2024,7 +2192,13 @@
     }, {
       "num": "070",
       "name": "Weepinbell"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 72,
     "num": "072",
@@ -2077,7 +2251,13 @@
     "prev_evolution": [{
       "num": "072",
       "name": "Tentacool"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 74,
     "num": "074",
@@ -2182,7 +2362,13 @@
     }, {
       "num": "075",
       "name": "Graveler"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 77,
     "num": "077",
@@ -2236,7 +2422,13 @@
     "prev_evolution": [{
       "num": "077",
       "name": "Ponyta"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 79,
     "num": "079",
@@ -2293,7 +2485,13 @@
     "prev_evolution": [{
       "num": "079",
       "name": "Slowpoke"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 81,
     "num": "081",
@@ -2347,7 +2545,13 @@
     "prev_evolution": [{
       "num": "081",
       "name": "Magnemite"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 83,
     "num": "083",
@@ -2368,6 +2572,12 @@
     "weaknesses": [
       "Electric",
       "Rock"
+    ],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
     ]
   }, {
     "id": 84,
@@ -2422,7 +2632,13 @@
     "prev_evolution": [{
       "num": "084",
       "name": "Doduo"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 86,
     "num": "086",
@@ -2477,7 +2693,13 @@
     "prev_evolution": [{
       "num": "086",
       "name": "Seel"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 88,
     "num": "088",
@@ -2526,7 +2748,13 @@
     "prev_evolution": [{
       "num": "088",
       "name": "Grimer"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 90,
     "num": "090",
@@ -2578,7 +2806,13 @@
     "prev_evolution": [{
       "num": "090",
       "name": "Shellder"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 92,
     "num": "092",
@@ -2674,7 +2908,13 @@
     }, {
       "num": "093",
       "name": "Haunter"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 95,
     "num": "095",
@@ -2699,6 +2939,12 @@
       "Fighting",
       "Ground",
       "Steel"
+    ],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
     ]
   }, {
     "id": 96,
@@ -2753,7 +2999,13 @@
     "prev_evolution": [{
       "num": "096",
       "name": "Drowzee"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 98,
     "num": "098",
@@ -2805,7 +3057,13 @@
     "prev_evolution": [{
       "num": "098",
       "name": "Krabby"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 100,
     "num": "100",
@@ -2855,7 +3113,13 @@
     "prev_evolution": [{
       "num": "100",
       "name": "Voltorb"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 102,
     "num": "102",
@@ -2919,7 +3183,13 @@
     "prev_evolution": [{
       "num": "102",
       "name": "Exeggcute"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 104,
     "num": "104",
@@ -2970,7 +3240,13 @@
     "prev_evolution": [{
       "num": "104",
       "name": "Cubone"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 106,
     "num": "106",
@@ -2991,6 +3267,12 @@
       "Flying",
       "Psychic",
       "Fairy"
+    ],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
     ]
   }, {
     "id": 107,
@@ -3012,6 +3294,12 @@
       "Flying",
       "Psychic",
       "Fairy"
+    ],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
     ]
   }, {
     "id": 108,
@@ -3031,6 +3319,12 @@
     "multipliers": null,
     "weaknesses": [
       "Fighting"
+    ],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
     ]
   }, {
     "id": 109,
@@ -3080,7 +3374,13 @@
     "prev_evolution": [{
       "num": "109",
       "name": "Koffing"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 111,
     "num": "111",
@@ -3139,7 +3439,13 @@
     "prev_evolution": [{
       "num": "111",
       "name": "Rhyhorn"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 113,
     "num": "113",
@@ -3181,6 +3487,12 @@
       "Poison",
       "Flying",
       "Bug"
+    ],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
     ]
   }, {
     "id": 115,
@@ -3200,6 +3512,12 @@
     "multipliers": null,
     "weaknesses": [
       "Fighting"
+    ],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
     ]
   }, {
     "id": 116,
@@ -3249,7 +3567,13 @@
     "prev_evolution": [{
       "num": "116",
       "name": "Horsea"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 118,
     "num": "118",
@@ -3301,7 +3625,13 @@
     "prev_evolution": [{
       "num": "118",
       "name": "Goldeen"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 120,
     "num": "120",
@@ -3357,7 +3687,13 @@
     "prev_evolution": [{
       "num": "120",
       "name": "Staryu"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 122,
     "num": "122",
@@ -3378,6 +3714,12 @@
       "Bug",
       "Ghost",
       "Dark"
+    ],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
     ]
   }, {
     "id": 123,
@@ -3402,6 +3744,12 @@
       "Ice",
       "Flying",
       "Rock"
+    ],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
     ]
   }, {
     "id": 124,
@@ -3427,6 +3775,12 @@
       "Ghost",
       "Dark",
       "Steel"
+    ],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
     ]
   }, {
     "id": 125,
@@ -3446,6 +3800,12 @@
     "multipliers": null,
     "weaknesses": [
       "Ground"
+    ],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
     ]
   }, {
     "id": 126,
@@ -3467,6 +3827,12 @@
       "Water",
       "Ground",
       "Rock"
+    ],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
     ]
   }, {
     "id": 127,
@@ -3488,6 +3854,12 @@
       "Fire",
       "Flying",
       "Rock"
+    ],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
     ]
   }, {
     "id": 128,
@@ -3507,6 +3879,12 @@
     "multipliers": null,
     "weaknesses": [
       "Fighting"
+    ],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
     ]
   }, {
     "id": 129,
@@ -3560,7 +3938,13 @@
     "prev_evolution": [{
       "num": "129",
       "name": "Magikarp"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 131,
     "num": "131",
@@ -3583,6 +3967,12 @@
       "Grass",
       "Fighting",
       "Rock"
+    ],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
     ]
   }, {
     "id": 132,
@@ -3602,6 +3992,12 @@
     "multipliers": null,
     "weaknesses": [
       "Fighting"
+    ],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
     ]
   }, {
     "id": 133,
@@ -3659,7 +4055,13 @@
     "prev_evolution": [{
       "num": "133",
       "name": "Eevee"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 135,
     "num": "135",
@@ -3682,7 +4084,13 @@
     "prev_evolution": [{
       "num": "133",
       "name": "Eevee"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 136,
     "num": "136",
@@ -3707,7 +4115,13 @@
     "prev_evolution": [{
       "num": "133",
       "name": "Eevee"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 137,
     "num": "137",
@@ -3726,6 +4140,12 @@
     "multipliers": null,
     "weaknesses": [
       "Fighting"
+    ],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
     ]
   }, {
     "id": 138,
@@ -3781,7 +4201,13 @@
     "prev_evolution": [{
       "num": "138",
       "name": "Omanyte"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 140,
     "num": "140",
@@ -3839,7 +4265,13 @@
     "prev_evolution": [{
       "num": "140",
       "name": "Kabuto"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 142,
     "num": "142",
@@ -3863,6 +4295,12 @@
       "Ice",
       "Rock",
       "Steel"
+    ],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
     ]
   }, {
     "id": 143,
@@ -3882,6 +4320,12 @@
     "multipliers": null,
     "weaknesses": [
       "Fighting"
+    ],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
     ]
   }, {
     "id": 144,
@@ -3905,6 +4349,12 @@
       "Electric",
       "Rock",
       "Steel"
+    ],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
     ]
   }, {
     "id": 145,
@@ -3926,6 +4376,12 @@
     "weaknesses": [
       "Ice",
       "Rock"
+    ],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
     ]
   }, {
     "id": 146,
@@ -3948,6 +4404,12 @@
       "Water",
       "Electric",
       "Rock"
+    ],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
     ]
   }, {
     "id": 147,
@@ -4040,7 +4502,13 @@
     }, {
       "num": "148",
       "name": "Dragonair"
-    }]
+    }],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
+    ]
   }, {
     "id": 150,
     "num": "150",
@@ -4061,6 +4529,12 @@
       "Bug",
       "Ghost",
       "Dark"
+    ],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
     ]
   }, {
     "id": 151,
@@ -4082,6 +4556,12 @@
       "Bug",
       "Ghost",
       "Dark"
+    ],
+    "next_evolution": [
+      {
+        "num": "0",
+        "name": "This is the final Evolution"
+      }
     ]
   }]
 }
