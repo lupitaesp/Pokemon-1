@@ -24,6 +24,11 @@
         "Flying",
         "Psychic"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "002",
         "name": "Ivysaur"
