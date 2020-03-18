@@ -129,6 +129,11 @@
         "Ground",
         "Rock"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "005",
         "name": "Charmeleon"
@@ -222,6 +227,11 @@
         "Electric",
         "Grass"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "008",
         "name": "Wartortle"
@@ -313,6 +323,11 @@
         "Flying",
         "Rock"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "011",
         "name": "Metapod"
@@ -417,6 +432,11 @@
         "Psychic",
         "Rock"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "014",
         "name": "Kakuna"
@@ -520,6 +540,11 @@
         "Electric",
         "Rock"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "017",
         "name": "Pidgeotto"
@@ -614,6 +639,11 @@
       "weaknesses": [
         "Fighting"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "020",
         "name": "Raticate"
@@ -672,6 +702,11 @@
         "Electric",
         "Rock"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "022",
         "name": "Fearow"
@@ -731,6 +766,11 @@
         "Ground",
         "Psychic"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "024",
         "name": "Arbok"
@@ -785,6 +825,11 @@
       "weaknesses": [
         "Ground"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "026",
         "name": "Raichu"
@@ -840,6 +885,11 @@
         "Grass",
         "Ice"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "028",
         "name": "Sandslash"
@@ -899,6 +949,11 @@
         "Ground",
         "Psychic"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "030",
         "name": "Nidorina"
@@ -998,6 +1053,11 @@
         "Ground",
         "Psychic"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "033",
         "name": "Nidorino"
@@ -1093,6 +1153,11 @@
       "weaknesses": [
         "Fighting"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "036",
         "name": "Clefable"
@@ -1151,6 +1216,11 @@
         "Ground",
         "Rock"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "038",
         "name": "Ninetales"
@@ -1206,6 +1276,11 @@
       "weaknesses": [
         "Fighting"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "040",
         "name": "Wigglytuff"
@@ -1266,6 +1341,11 @@
         "Psychic",
         "Rock"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "042",
         "name": "Golbat"
@@ -1327,6 +1407,11 @@
         "Flying",
         "Psychic"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "044",
         "name": "Gloom"
@@ -1428,6 +1513,11 @@
         "Bug",
         "Rock"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "047",
         "name": "Parasect"
@@ -1494,6 +1584,11 @@
         "Psychic",
         "Rock"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "049",
         "name": "Venomoth"
@@ -1553,6 +1648,11 @@
         "Grass",
         "Ice"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "051",
         "name": "Dugtrio"
@@ -1608,6 +1708,11 @@
       "weaknesses": [
         "Fighting"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "053",
         "name": "Persian"
@@ -1662,6 +1767,11 @@
         "Electric",
         "Grass"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "055",
         "name": "Golduck"
@@ -1721,6 +1831,11 @@
         "Psychic",
         "Fairy"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "057",
         "name": "Primeape"
@@ -1781,6 +1896,11 @@
         "Ground",
         "Rock"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "059",
         "name": "Arcanine"
@@ -1840,6 +1960,11 @@
         "Electric",
         "Grass"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "061",
         "name": "Poliwhirl"
@@ -1938,6 +2063,11 @@
         "Ghost",
         "Dark"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "064",
         "name": "Kadabra"
@@ -2034,6 +2164,11 @@
         "Psychic",
         "Fairy"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "067",
         "name": "Machoke"
@@ -2129,6 +2264,11 @@
         "Flying",
         "Psychic"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "070",
         "name": "Weepinbell"
@@ -2227,6 +2367,11 @@
         "Ground",
         "Psychic"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "073",
         "name": "Tentacruel"
@@ -2292,6 +2437,11 @@
         "Ground",
         "Steel"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "075",
         "name": "Graveler"
@@ -2399,6 +2549,11 @@
         "Ground",
         "Rock"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "078",
         "name": "Rapidash"
@@ -2459,6 +2614,11 @@
         "Ghost",
         "Dark"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "080",
         "name": "Slowbro"
@@ -2522,6 +2682,11 @@
         "Water",
         "Ground"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "082",
         "name": "Magneton"
@@ -2578,6 +2743,11 @@
         "Electric",
         "Rock"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -2609,6 +2779,11 @@
         "Electric",
         "Rock"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "085",
         "name": "Dodrio"
@@ -2668,6 +2843,11 @@
         "Electric",
         "Grass"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "087",
         "name": "Dewgong"
@@ -2726,6 +2906,11 @@
         "Ground",
         "Psychic"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "089",
         "name": "Muk"
@@ -2781,6 +2966,11 @@
         "Electric",
         "Grass"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "091",
         "name": "Cloyster"
@@ -2842,6 +3032,11 @@
         "Ghost",
         "Dark"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "093",
         "name": "Haunter"
@@ -2945,6 +3140,11 @@
         "Ground",
         "Steel"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -2976,6 +3176,11 @@
         "Ghost",
         "Dark"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "097",
         "name": "Hypno"
@@ -3035,6 +3240,11 @@
         "Electric",
         "Grass"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "099",
         "name": "Kingler"
@@ -3092,6 +3302,11 @@
       "weaknesses": [
         "Ground"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "101",
         "name": "Electrode"
@@ -3154,6 +3369,11 @@
         "Bug",
         "Dark"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "103",
         "name": "Exeggutor"
@@ -3216,6 +3436,11 @@
         "Grass",
         "Ice"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "105",
         "name": "Marowak"
@@ -3272,6 +3497,11 @@
         "Psychic",
         "Fairy"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -3299,6 +3529,11 @@
         "Psychic",
         "Fairy"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -3324,6 +3559,11 @@
       "weaknesses": [
         "Fighting"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -3351,6 +3591,11 @@
         "Ground",
         "Psychic"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "110",
         "name": "Weezing"
@@ -3411,6 +3656,11 @@
         "Ground",
         "Steel"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "112",
         "name": "Rhydon"
@@ -3468,6 +3718,17 @@
       "multipliers": null,
       "weaknesses": [
         "Fighting"
+      ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
+      "next_evolution": [
+        {
+          "num": "0",
+          "name": "This is the final Evolution"
+        }
       ]
     }, {
       "id": 114,
@@ -3492,6 +3753,11 @@
         "Flying",
         "Bug"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -3517,6 +3783,11 @@
       "weaknesses": [
         "Fighting"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -3544,6 +3815,11 @@
         "Electric",
         "Grass"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "117",
         "name": "Seadra"
@@ -3660,6 +3936,11 @@
         "Electric",
         "Grass"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "121",
         "name": "Starmie"
@@ -3719,6 +4000,11 @@
         "Ghost",
         "Dark"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -3749,6 +4035,11 @@
         "Flying",
         "Rock"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -3780,6 +4071,11 @@
         "Dark",
         "Steel"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -3805,6 +4101,11 @@
       "weaknesses": [
         "Ground"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -3832,6 +4133,11 @@
         "Ground",
         "Rock"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -3859,6 +4165,11 @@
         "Flying",
         "Rock"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -3884,6 +4195,11 @@
       "weaknesses": [
         "Fighting"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -3914,6 +4230,11 @@
         "Electric",
         "Grass"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "130",
         "name": "Gyarados"
@@ -3972,6 +4293,11 @@
         "Fighting",
         "Rock"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -3997,6 +4323,11 @@
       "weaknesses": [
         "Fighting"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -4026,6 +4357,11 @@
       "weaknesses": [
         "Fighting"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "134",
         "name": "Vaporeon"
@@ -4145,6 +4481,11 @@
       "weaknesses": [
         "Fighting"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -4175,6 +4516,11 @@
         "Fighting",
         "Ground"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "139",
         "name": "Omastar"
@@ -4239,6 +4585,11 @@
         "Fighting",
         "Ground"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "141",
         "name": "Kabutops"
@@ -4300,6 +4651,11 @@
         "Rock",
         "Steel"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -4325,6 +4681,11 @@
       "weaknesses": [
         "Fighting"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -4354,6 +4715,11 @@
         "Rock",
         "Steel"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -4381,6 +4747,11 @@
         "Ice",
         "Rock"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -4409,6 +4780,11 @@
         "Electric",
         "Rock"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -4440,6 +4816,11 @@
         "Dragon",
         "Fairy"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [{
         "num": "148",
         "name": "Dragonair"
@@ -4534,6 +4915,11 @@
         "Ghost",
         "Dark"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -4561,6 +4947,11 @@
         "Ghost",
         "Dark"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -6118,6 +6509,11 @@
       "weaknesses": [
         "Fight"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "424",
@@ -6149,6 +6545,11 @@
         "Ice",
         "Venom"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "192",
@@ -6218,6 +6619,11 @@
         "Flying",
         "Ice"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "469",
@@ -6246,6 +6652,11 @@
       "weaknesses": [
         "Grass"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "195",
@@ -6401,6 +6812,11 @@
         "Rock",
         "Pixie"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "430",
@@ -6468,6 +6884,11 @@
         "Sinister",
         "Ghost"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -6532,6 +6953,11 @@
         "Bug",
         "Sinister"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -6561,6 +6987,11 @@
         "Flying",
         "Rock"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "205",
@@ -6622,6 +7053,11 @@
       "weaknesses": [
         "Fight"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -6651,6 +7087,11 @@
         "Water",
         "Flying"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "472",
@@ -6716,6 +7157,11 @@
         "Steel",
         "Venom"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "210",
@@ -6780,6 +7226,11 @@
         "Earth",
         "Psiquic"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -6844,6 +7295,11 @@
         "Steel",
         "Water"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -6875,6 +7331,11 @@
         "Psiquic",
         "Pixie"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -6908,6 +7369,11 @@
         "Steel",
         "Pixie"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "461",
@@ -6935,6 +7401,11 @@
       "weaknesses": [
         "Fight"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "217",
@@ -6962,6 +7433,11 @@
       "weaknesses": [
         "Fight"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -6991,6 +7467,11 @@
         "Rock",
         "Water"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "219",
@@ -7022,6 +7503,11 @@
         "Water",
         "Rock"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -7054,6 +7540,11 @@
         "Steel",
         "Water"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "221",
@@ -7126,6 +7617,11 @@
         "Grass",
         "Earth"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -7154,6 +7650,11 @@
         "Electric",
         "Grass"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "224",
@@ -7219,6 +7720,11 @@
         "Fire",
         "Steel"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -7283,6 +7789,11 @@
         "Electric",
         "Fire"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -7314,6 +7825,11 @@
         "Rock",
         "Water"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "229",
@@ -7418,7 +7934,11 @@
         "Grass",
         "Ice",
         "Water"
-      ],
+      ], "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       
       "next_evolution": [
         {
@@ -7518,6 +8038,11 @@
       "weaknesses": [
         "Fight"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -7546,6 +8071,11 @@
       "weaknesses": [
         "Fight"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -7574,6 +8104,11 @@
       "weaknesses": [
         "Fight"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "106",
@@ -7660,6 +8195,11 @@
         "Rock",
         "Steel"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "124",
@@ -7688,6 +8228,11 @@
       "weaknesses": [
         "Earth"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "125",
@@ -7722,6 +8267,11 @@
         "Rock",
         "Water"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "126",
@@ -7754,6 +8304,11 @@
       "weaknesses": [
         "Fight"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -7822,6 +8377,11 @@
       "weaknesses": [
         "Earth"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -7852,6 +8412,11 @@
         "Rock",
         "Water"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -7881,6 +8446,11 @@
         "Electric",
         "Grass"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -7915,6 +8485,11 @@
         "Ice",
         "Steel"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "247",
@@ -8036,6 +8611,11 @@
         "Ice",
         "Rock"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -8067,6 +8647,11 @@
         "Electric",
         "Water"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -8101,6 +8686,11 @@
         "Ice",
         "Venom"
       ],
+      "prev_evolution":
+      [{
+          "num":"000",
+          "name":"This is the first form"
+      }],
       "next_evolution": [
         {
           "num": "0",
@@ -8132,6 +8722,11 @@
               "Flying",
               "Bug"
             ],
+            "prev_evolution":
+            [{
+                "num":"000",
+                "name":"This is the first form"
+            }],
             "next_evolution": [{
               "num": "253",
               "name": "Grovyle"
@@ -8229,6 +8824,11 @@
               "Water",
               "Rock"
             ],
+            "prev_evolution":
+            [{
+                "num":"000",
+                "name":"This is the first form"
+            }],
             "next_evolution": [{
               "num": "256",
               "name": "Combusken"
@@ -8325,6 +8925,11 @@
               "Grass",
               "Electric"
             ],
+            "prev_evolution":
+            [{
+                "num":"000",
+                "name":"This is the first form"
+            }],
             "next_evolution": [{
               "num": "259",
               "name": "Marshtomp"
@@ -8416,6 +9021,11 @@
               "Bug",
               "Fighting"
             ],
+            "prev_evolution":
+            [{
+                "num":"000",
+                "name":"This is the first form"
+            }],
             "next_evolution": [{
               "num": "262",
               "name": "Mightyena"
@@ -8471,6 +9081,11 @@
             "weaknesses": [
               "Fightning"
             ],
+            "prev_evolution":
+            [{
+                "num":"000",
+                "name":"This is the first form"
+            }],
             "next_evolution": [{
               "num": "264",
               "name": "Linoone"
@@ -8526,6 +9141,11 @@
               "Flying",
               "Rock"
             ],
+            "prev_evolution":
+            [{
+                "num":"000",
+                "name":"This is the first form"
+            }],
             "next_evolution": [{
               "num": "265",
               "name": "Silcoon"
@@ -8695,6 +9315,11 @@
               "Poison",
               "Bug"
             ],
+            "prev_evolution":
+            [{
+                "num":"000",
+                "name":"This is the first form"
+            }],
             "next_evolution": [{
               "num": "275",
               "name": "Lombre"
@@ -8791,6 +9416,11 @@
               "Bug",
               "Ice"
             ],
+            "prev_evolution":
+            [{
+                "num":"000",
+                "name":"This is the first form"
+            }],
             "next_evolution": [{
               "num": "274",
               "name": "Nuzleaf"
@@ -8895,6 +9525,11 @@
               "Ice",
               "Rock"
             ],
+            "prev_evolution":
+            [{
+                "num":"000",
+                "name":"This is the first form"
+            }],
             "next_evolution": [{
               "num": "277",
               "name": "Swellow"
@@ -8954,6 +9589,11 @@
               "Electric",
               "Rock"
             ],
+            "prev_evolution":
+            [{
+                "num":"000",
+                "name":"This is the first form"
+            }],
             "next_evolution": [{
               "num": "279",
               "name": "Pelipper"
@@ -9013,6 +9653,11 @@
               "Steel",
               "Poison"
             ],
+            "prev_evolution":
+            [{
+                "num":"000",
+                "name":"This is the first form"
+            }],
             "next_evolution": [{
               "num": "281",
               "name": "Kirlia"
@@ -9112,6 +9757,11 @@
               "Flying",
               "Rock"
             ],
+            "prev_evolution":
+            [{
+                "num":"000",
+                "name":"This is the first form"
+            }],
             "next_evolution": [{
               "num": "284",
               "name": "Masquerain"
@@ -9175,6 +9825,11 @@
               "Ice",
               "Poison"
             ],
+            "prev_evolution":
+            [{
+                "num":"000",
+                "name":"This is the first form"
+            }],
             "next_evolution": [{
               "num": "286",
               "name": "Breloom"
@@ -9234,6 +9889,11 @@
             "weaknesses": [
               "Fighting"
             ],
+            "prev_evolution":
+            [{
+                "num":"000",
+                "name":"This is the first form"
+            }],
             "next_evolution": [{
               "num": "288",
               "name": "Vigoroth"
@@ -9421,6 +10081,11 @@
             "weaknesses": [
               "Fighting"
             ],
+            "prev_evolution":
+            [{
+                "num":"000",
+                "name":"This is the first form"
+            }],
             "next_evolution": [{
               "num": "294",
               "name": "Loudred"
@@ -9511,6 +10176,11 @@
               "Psychic",
               "Fairy"
             ],
+            "prev_evolution":
+            [{
+                "num":"000",
+                "name":"This is the first form"
+            }],
             "next_evolution": [{
               "num": "297",
               "name": "Hariyama"
@@ -9571,6 +10241,11 @@
               "Flying",
               "Electric"
             ],
+            "prev_evolution":
+            [{
+                "num":"000",
+                "name":"This is the first form"
+            }],
             "next_evolution": [{
               "num": "002",
               "name": "Marill"
@@ -9635,6 +10310,11 @@
               "Ice",
               "Psychc"
             ],
+            "prev_evolution":
+            [{
+                "num":"000",
+                "name":"This is the first form"
+            }],
             "next_evolution": [{
               "num": "301",
               "name": "Delcatty"
@@ -9694,6 +10374,17 @@
               "Ice",
               "Fire",
               "Rock"
+            ],
+            "prev_evolution":
+            [{
+                "num":"000",
+                "name":"This is the first form"
+            }],
+            "next_evolution": [
+              {
+                "num": "0",
+                "name": "This is the final Evolution"
+              }
             ]
           }, {
             "id": 303,
@@ -9717,6 +10408,17 @@
               "Ice",
               "Fire",
               "Rock"
+            ],
+            "prev_evolution":
+            [{
+                "num":"000",
+                "name":"This is the first form"
+            }],
+            "next_evolution": [
+              {
+                "num": "0",
+                "name": "This is the final Evolution"
+              }
             ]
           }, {
             "id": 304,
@@ -9741,6 +10443,11 @@
               "Fight",
               "Hater"
             ],
+            "prev_evolution":
+            [{
+                "num":"000",
+                "name":"This is the first form"
+            }],
             "next_evolution": [{
               "num": "305",
               "name": "Lairon"
@@ -9839,6 +10546,11 @@
               "Rock",
               "Ghost"
             ],
+            "prev_evolution":
+            [{
+                "num":"000",
+                "name":"This is the first form"
+            }],
             "next_evolution": [{
               "num": "308",
               "name": "Medicham"
@@ -9897,6 +10609,11 @@
               "Ground",
               "Bug"
             ],
+            "prev_evolution":
+            [{
+                "num":"000",
+                "name":"This is the first form"
+            }],
             "next_evolution": [{
               "num": "310",
               "name": "Manectric"
@@ -9953,6 +10670,17 @@
               "Fire",
               "Normal",
               "Rock"
+            ],
+            "prev_evolution":
+            [{
+                "num":"000",
+                "name":"This is the first form"
+            }],
+            "next_evolution": [
+              {
+                "num": "0",
+                "name": "This is the final Evolution"
+              }
             ]
           }, {
             "id": 312,
@@ -9974,6 +10702,17 @@
             "weaknesses": [
               "Fire",
               "Ground"
+            ],
+            "prev_evolution":
+            [{
+                "num":"000",
+                "name":"This is the first form"
+            }],
+            "next_evolution": [
+              {
+                "num": "0",
+                "name": "This is the final Evolution"
+              }
             ]
           }, {
             "id": 313,
@@ -9997,6 +10736,11 @@
               "Flying",
               "Rock"
             ],
+            "prev_evolution":
+            [{
+                "num":"000",
+                "name":"This is the first form"
+            }],
             "next_evolution": [{
               "num": "314",
               "name": "Illumise"
@@ -10088,6 +10832,11 @@
               "Ground",
               "Psychc"
             ],
+            "prev_evolution":
+            [{
+                "num":"000",
+                "name":"This is the first form"
+            }],
             "next_evolution": [{
               "num": "317",
               "name": "Swalot"
@@ -10147,6 +10896,11 @@
               "Bug",
               "Fairy"
             ],
+            "prev_evolution":
+            [{
+                "num":"000",
+                "name":"This is the first form"
+            }],
             "next_evolution": [{
               "num": "319",
               "name": "Sharpedo"
@@ -10207,6 +10961,11 @@
               "Electr",
               "Grass"
             ],
+            "prev_evolution":
+            [{
+                "num":"000",
+                "name":"This is the first form"
+            }],
             "next_evolution": [{
               "num": "321",
               "name": "Wailord"
@@ -10264,6 +11023,11 @@
                   "Ground",
                   "Water"
                 ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
                 "next_evolution": [{
                   "num": "323",
                   "name": "Camerupt"
@@ -10320,6 +11084,11 @@
                   "Ground",
                   "Rock"
                 ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
                 "next_evolution": [
                     {
                       "num": "0",
@@ -10348,6 +11117,11 @@
                   "Ghost",
                   "Dark"
                 ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
                 "next_evolution": [{
                   "num": "326",
                   "name": "Grumpig"
@@ -10401,6 +11175,17 @@
                 "multipliers": null,
                 "weaknesses": [
                   "Fighting"
+                ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
+                "next_evolution": [
+                  {
+                    "num": "0",
+                    "name": "This is the final Evolution"
+                  }
                 ]
               }, {
                 "id": 328,
@@ -10424,6 +11209,11 @@
                   "Ice",
                   "Plant"
                 ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
                 "next_evolution": [{
                   "num": "329",
                   "name": "Vibrava"
@@ -10481,6 +11271,11 @@
                   "Fairy",
                   "Ice"
                 ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
                 "next_evolution": [
                     {
                       "num": "0",
@@ -10511,6 +11306,11 @@
                   "Ice",
                   "Poison"
                 ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
                 "next_evolution": [{
                   "num": "332",
                   "name": "Cactume"
@@ -10574,6 +11374,11 @@
                   "Ice",
                   "Rock"
                 ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
                 "next_evolution": [{
                   "num": "334",
                   "name": "Altaria"
@@ -10629,6 +11434,17 @@
                 "multipliers": null,
                 "weaknesses": [
                   "Fighting"
+                ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
+                "next_evolution": [
+                  {
+                    "num": "0",
+                    "name": "This is the final Evolution"
+                  }
                 ]
               }, {
                 "id": 336,
@@ -10650,6 +11466,11 @@
                   "Psychic",
                   "Ground"
                 ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
                 "next_evolution": [
                     {
                       "num": "0",
@@ -10682,6 +11503,11 @@
                   "Dark",
                   "Ground"
                 ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
                 "next_evolution": [
                     {
                       "num": "0",
@@ -10714,6 +11540,11 @@
                   "Dark",
                   "Ground"
                 ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
                 "next_evolution": [
                     {
                       "num": "0",
@@ -10741,6 +11572,11 @@
                 "weaknesses": [
                   "Plant"
                 ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
                 "next_evolution": [{
                   "num": "340",
                   "name": "Wishcash"
@@ -10796,6 +11632,11 @@
                   "Electric",
                   "Plant"
                 ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
                 "next_evolution": [{
                   "num": "342",
                   "name": "Crawdaunt"
@@ -10857,6 +11698,11 @@
                   "Plant",
                   "Dark"
                 ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
                 "next_evolution": [{
                   "num": "344",
                   "name": "Claydol"
@@ -10888,6 +11734,11 @@
                   "Bug",
                   "Ghost"
                 ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
                 "next_evolution": [
                   {
                     "num": "344",
@@ -10919,6 +11770,11 @@
                   "Bug",
                   "Steel"
                 ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
                 "next_evolution": [
                   {
                     "num": "346",
@@ -10950,6 +11806,11 @@
                   "Bug",
                   "Steel"
                 ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
                 "next_evolution": [
                   {
                     "num": "346",
@@ -10980,6 +11841,11 @@
                   "Rock",
                   "Steel"
                 ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
                 "next_evolution": [
                   {
                     "num": "348",
@@ -11010,6 +11876,11 @@
                   "Rock",
                   "Steel"
                 ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
                 "next_evolution": [
                   {
                     "num": "348",
@@ -11038,6 +11909,11 @@
                   "Plant",
                   "Electric"
                 ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
                 "next_evolution": [
                   {
                     "num": "350",
@@ -11066,6 +11942,11 @@
                   "Plant",
                   "Electric"
                 ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
                 "next_evolution": [
                   {
                     "num": "350",
@@ -11096,6 +11977,11 @@
                 "weaknesses": [
                   "Flight"
                 ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
                 "next_evolution": [
                     {
                       "num": "0",
@@ -11123,6 +12009,11 @@
                 "weaknesses": [
                   "Flight"
                 ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
                 "next_evolution": [
                     {
                       "num": "0",
@@ -11151,6 +12042,11 @@
                   "Sinister",
                   "Ghost"
                 ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
                 "next_evolution": [
                   {
                     "num": "354",
@@ -11179,6 +12075,11 @@
                   "Sinister",
                   "Ghost"
                 ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
                 "next_evolution": [
                   {
                     "num": "354",
@@ -11207,6 +12108,11 @@
                   "Sinister",
                   "Ghost"
                 ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
                 "next_evolution": [
                   {
                     "num": "356",
@@ -11239,6 +12145,11 @@
                   "Sinister",
                   "Ghost"
                 ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
                 "next_evolution": [
                   {
                     "num": "356",
@@ -11275,6 +12186,11 @@
                   "Poison",
                   "Rock"
                 ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
                 "next_evolution": [
                     {
                       "num": "0",
@@ -11304,6 +12220,11 @@
                   "Sinister",
                   "Ghost"
                 ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
                 "next_evolution": [
                   {
                     "num": "358",
@@ -11333,6 +12254,11 @@
                   "Fight",
                   "Fairy"
                 ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
                 "next_evolution": [
                     {
                       "num": "0",
@@ -11362,6 +12288,11 @@
                   "Sinister",
                   "Ghost"
                 ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
                 "next_evolution": [
                   {
                     "num": "202",
@@ -11392,6 +12323,11 @@
                   "Rock",
                   "Steel"
                 ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
                 "next_evolution": [
                   {
                     "num": "362",
@@ -11426,6 +12362,11 @@
                   "Rock",
                   "Steel"
                 ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
                 "next_evolution": [
                   {
                     "num": "362",
@@ -11461,6 +12402,11 @@
                   "Rock",
                   "Plant"
                 ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
                 "next_evolution": [
                   {
                     "num": "364",
@@ -11496,6 +12442,11 @@
                   "Rock",
                   "Plant"
                 ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
                 "next_evolution": [
                   {
                     "num": "364",
@@ -11531,6 +12482,11 @@
                   "Rock",
                   "Plant"
                 ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
                 "next_evolution": [
                   {
                     "num": "364",
@@ -11563,6 +12519,11 @@
                   "Plant",
                   "Electric"
                 ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
                 "next_evolution": [
                   {
                     "num": "367",
@@ -11595,6 +12556,11 @@
                   "Plant"
             
             ],
+            "prev_evolution":
+            [{
+                "num":"000",
+                "name":"This is the first form"
+            }],
                 "next_evolution" : [{
                   "num" : "368" ,
                   "name" : "Gorebyss"
@@ -11620,6 +12586,11 @@
                   "Electric",
                   "Plant"
                 ],
+                "prev_evolution":
+                [{
+                    "num":"000",
+                    "name":"This is the first form"
+                }],
                 "next_evolution": [
                     {
                       "num": "0",
@@ -11650,6 +12621,11 @@
                   "figth"
             
               ],
+              "prev_evolution":
+              [{
+                  "num":"000",
+                  "name":"This is the first form"
+              }],
               "next_evolution": [
                 {
                   "num": "0",
@@ -11676,6 +12652,17 @@
                 "weaknesses" : [
                   "plant",
                    "Electric"
+              ],
+              "prev_evolution":
+              [{
+                  "num":"000",
+                  "name":"This is the first form"
+              }],
+              "next_evolution": [
+                {
+                  "num": "0",
+                  "name": "This is the final Evolution"
+                }
               ]
               },{
                 "id" : 371 ,
@@ -11700,6 +12687,11 @@
                     "dragon",
                     "ice"
             ],
+            "prev_evolution":
+              [{
+                  "num":"000",
+                  "name":"This is the first form"
+              }],
                 "next_evolution " : [{
                   "num" : "372" ,
                   "name" : "shelgon"
@@ -11733,6 +12725,11 @@
                   "dragon",
                   "ice"
             ],
+            "prev_evolution":
+              [{
+                  "num":"000",
+                  "name":"This is the first form"
+              }],
                  "next_evolution":[{
                   "num" : "373" ,
                   "name" : "salamence"
@@ -11763,6 +12760,11 @@
                   "dragon",
                   "ice"
             ],
+            "prev_evolution":
+              [{
+                  "num":"000",
+                  "name":"This is the first form"
+              }],
                   "next_evolution":[{
                   "num" : "373" ,
                   "name" : "megasalamance"
@@ -11790,6 +12792,11 @@
                   "ghost",
                   "ground"
             ],
+            "prev_evolution":
+              [{
+                  "num":"000",
+                  "name":"This is the first form"
+              }],
                 " next_evolution " : [{
                   "num" : "375" ,
                   "name" : "metang"
@@ -11820,6 +12827,11 @@
                   "ghost",
                   "ground"
             ],
+            "prev_evolution":
+              [{
+                  "num":"000",
+                  "name":"This is the first form"
+              }],
                 "next_evolution" : [{
                   "num" : "376" ,
                   "name" : "Metagross"
@@ -11847,6 +12859,11 @@
                   "ghost",
                   "ground"
             ],
+            "prev_evolution":
+              [{
+                  "num":"000",
+                  "name":"This is the first form"
+              }],
                 " next_evolution " : [{
                   "num" : " 376 " ,
                   "name" : "megametagross "
@@ -11875,6 +12892,11 @@
                   "steel",
                   "water"
             ],
+            "prev_evolution":
+              [{
+                  "num":"000",
+                  "name":"This is the first form"
+              }],
             "next_evolution": [
                 {
                   "num": "0",
@@ -11904,6 +12926,11 @@
                   "fire",
                   "steel"
             ],
+            "prev_evolution":
+              [{
+                  "num":"000",
+                  "name":"This is the first form"
+              }],
             "next_evolution": [
                 {
                   "num": "0",
@@ -11933,6 +12960,11 @@
                   "fire",
                   "steel"
             ],
+            "prev_evolution":
+              [{
+                  "num":"000",
+                  "name":"This is the first form"
+              }],
             "next_evolution": [
                 {
                   "num": "0",
@@ -11964,6 +12996,11 @@
                   "ice",
                   "ghost"
             ],
+            "prev_evolution":
+              [{
+                  "num":"000",
+                  "name":"This is the first form"
+              }],
             "next_evolution": [
                 {
                   "num": "0",
@@ -11995,6 +13032,11 @@
                   "ice",
                   "ghost"
             ],
+            "prev_evolution":
+              [{
+                  "num":"000",
+                  "name":"This is the first form"
+              }],
             "next_evolution": [
                 {
                   "num": "0",
@@ -12022,6 +13064,11 @@
                   "electric",
                   "grass"                
             ],
+            "prev_evolution":
+              [{
+                  "num":"000",
+                  "name":"This is the first form"
+              }],
             "next_evolution": [
                 {
                   "num": "0",
@@ -12051,6 +13098,11 @@
                   "water"
                 
             ],
+            "prev_evolution":
+              [{
+                  "num":"000",
+                  "name":"This is the first form"
+              }],
             "next_evolution": [
                 {
                   "num": "0",
@@ -12078,6 +13130,11 @@
                   "grass",
                   "ground"
                 ],
+                "prev_evolution":
+              [{
+                  "num":"000",
+                  "name":"This is the first form"
+              }],
                 "next_evolution": [
                     {
                       "num": "0",
@@ -12107,6 +13164,11 @@
                   "ground",
                   "ghost"
             ],
+            "prev_evolution":
+              [{
+                  "num":"000",
+                  "name":"This is the first form"
+              }],
             "next_evolution": [
                 {
                   "num": "0",
@@ -12135,6 +13197,11 @@
                   "dark",
                   "ghost"
             ],
+            "prev_evolution":
+              [{
+                  "num":"000",
+                  "name":"This is the first form"
+              }],
             "next_evolution": [
                 {
                   "num": "0",
@@ -12168,6 +13235,11 @@
             "Ice",
             "Veneno" 
         ],
+        "prev_evolution":
+              [{
+                  "num":"000",
+                  "name":"This is the first form"
+              }],
         "next_evolution": [
           {
             "num": "388",
@@ -12279,6 +13351,11 @@
         "Rock", 
         "Ground" 
       ],
+      "prev_evolution":
+              [{
+                  "num":"000",
+                  "name":"This is the first form"
+              }],
       "next_evolution": [
         {
         "num": "391",
@@ -12386,6 +13463,11 @@
         " Electrico ",
         " Plant " 
       ],
+      "prev_evolution":
+              [{
+                  "num":"0",
+                  "name":"This is the first form"
+              }],
       "next_evolution": [{
         "num": "394",
         "name": "Prinplup"
@@ -12486,6 +13568,11 @@
         "Ice",
         "Rock"
       ],
+      "prev_evolution":
+              [{
+                  "num":"0",
+                  "name":"This is the first form"
+              }],
       "next_evolution": [
         {
         "num": "397",
@@ -12586,6 +13673,11 @@
       "weaknesses": [
         "Lucha"
       ],
+      "prev_evolution":
+              [{
+                  "num":"0",
+                  "name":"This is the first form"
+              }],
       "next_evolution": [
         {
         "num": "400",
@@ -12651,6 +13743,11 @@
       "Fliying",
       "Rock"
       ],
+      "prev_evolution":
+              [{
+                  "num":"0",
+                  "name":"This is the first form"
+              }],
       "next_evolution": [
         {
         "num": "402",
@@ -12717,6 +13814,11 @@
       "weaknesses": [
         "Ground"
       ],
+      "prev_evolution":
+              [{
+                  "num":"0",
+                  "name":"This is the first form"
+              }],
       "next_evolution": [
         {
         "num": "404",
@@ -12784,6 +13886,11 @@
       "Ice",
       "Psiquico"
       ],
+      "prev_evolution":
+              [{
+                  "num":"0",
+                  "name":"This is the first form"
+              }],
       "next_evolution": [
         {
         "num": "315",
@@ -12856,6 +13963,11 @@
         "Steel",
         "Water"
       ],
+      "prev_evolution":
+              [{
+                  "num":"0",
+                  "name":"This is the first form"
+              }],
       "next_evolution": [
         {
         "num": "40*",
@@ -12889,6 +14001,11 @@
           "Steel",
           "Water"
         ],
+        "prev_evolution":
+              [{
+                  "num":"0",
+                  "name":"This is the first form"
+              }],
         "next_evolution": [
           {
             "num": "0",
@@ -12923,6 +14040,11 @@
         "Ground",
         "Water"
       ],
+      "prev_evolution":
+              [{
+                  "num":"0",
+                  "name":"This is the first form"
+              }],
       "next_evolution": [
         {
         "num": "411",
@@ -12956,6 +14078,11 @@
         "Ground",
         "Water"
       ],
+      "prev_evolution":
+              [{
+                  "num":"0",
+                  "name":"This is the first form"
+              }],
       "next_evolution": [
         {
         "num": "0",
@@ -12989,6 +14116,11 @@
         "Fire",
         "Rock"
       ],
+      "prev_evolution":
+              [{
+                  "num":"0",
+                  "name":"This is the first form"
+              }],
       "next_evolution": [
         {
         "num": "413",
@@ -13024,6 +14156,11 @@
         "Ice",
         "Poison"
       ],
+      "prev_evolution":
+              [{
+                  "num":"0",
+                  "name":"This is the first form"
+              }],
       "next_evolution": [
         {
         "num": "0",
@@ -13058,6 +14195,11 @@
         "Ice",
         "Electric"
       ],
+      "prev_evolution":
+              [{
+                  "num":"0",
+                  "name":"This is the first form"
+              }],
       "next_evolution": [{
         "num": "0",
         "name": "This is the final evolution"
@@ -13092,6 +14234,11 @@
         "Ice",
         "Electric"
       ],
+      "prev_evolution":
+              [{
+                  "num":"0",
+                  "name":"This is the first form"
+              }],
       "next_evolution": [{
         "num": "416",
         "name": "Vespiquen"
@@ -13126,6 +14273,11 @@
         "Ice",
         "Electric"
       ],
+      "prev_evolution":
+              [{
+                  "num":"0",
+                  "name":"This is the first form"
+              }],
       "next_evolution": [
         {
         "num": "0",
@@ -13156,6 +14308,11 @@
       "weaknesses": [
         "Ground"
       ],
+      "prev_evolution":
+              [{
+                  "num":"0",
+                  "name":"This is the first form"
+              }],
       "next_evolution": [
         {
         "num": "0",
@@ -13187,6 +14344,11 @@
         "Electric",
         "Plant"
       ],
+      "prev_evolution":
+              [{
+                  "num":"0",
+                  "name":"This is the first form"
+              }],
       "next_evolution": [
         {
         "num": "419",
@@ -13218,6 +14380,11 @@
         "Electric",
         "Plant"
       ],
+      "prev_evolution":
+              [{
+                  "num":"0",
+                  "name":"This is the first form"
+              }],
       "next_evolution": [
         {
         "num": "s",
@@ -13252,6 +14419,11 @@
         "Ice",
         "Poison"
       ],
+      "prev_evolution":
+              [{
+                  "num":"0",
+                  "name":"This is the first form"
+              }],
       "next_evolution": [
         {
         "num": "421",
@@ -13286,6 +14458,11 @@
         "Ice",
         "Poison"
       ],
+      "prev_evolution":
+              [{
+                  "num":"0",
+                  "name":"This is the first form"
+              }],
       "next_evolution": [
         {
         "num": "0",
@@ -13317,6 +14494,11 @@
         "Electric",
         "Plant"
       ],
+      "prev_evolution":
+              [{
+                  "num":"0",
+                  "name":"This is the first form"
+              }],
       "next_evolution": [
         {
         "num": "423",
@@ -13348,6 +14530,11 @@
       "weaknesses": [
         "Plant"
       ],
+      "prev_evolution":
+              [{
+                  "num":"0",
+                  "name":"This is the first form"
+              }],
       "next_evolution": [
         {
         "num": "0",
@@ -13419,6 +14606,11 @@
         "rock",
         "Electric"
       ],
+      "prev_evolution":
+              [{
+                  "num":"0",
+                  "name":"This is the first form"
+              }],
       "next_evolution": [
         {
         "num": "426",
@@ -13454,6 +14646,11 @@
         "rock",
         "Electric"
       ],
+      "prev_evolution":
+              [{
+                  "num":"0",
+                  "name":"This is the first form"
+              }],
       "next_evolution": [
         {
         "num": "0",
@@ -13484,6 +14681,11 @@
       "weaknesses": [
         "Figth"
       ],
+      "prev_evolution":
+              [{
+                  "num":"0",
+                  "name":"This is the first form"
+              }],
       "next_evolution": [
         {
         "num": "428",
@@ -13514,6 +14716,11 @@
       "weaknesses": [
         "Figth"
       ],
+      "prev_evolution":
+              [{
+                  "num":"0",
+                  "name":"This is the first form"
+              }],
       "next_evolution": [
         {
         "num": "0",
@@ -13620,6 +14827,11 @@
         "weaknesses": [
           "Fight"
         ],
+        "prev_evolution":
+              [{
+                  "num":"0",
+                  "name":"This is the first form"
+              }],
         "next_evolution": [
           {
             "num": "432",
@@ -13653,6 +14865,11 @@
           "Sinister",
           "Ghost"
         ],
+        "prev_evolution":
+              [{
+                  "num":"0",
+                  "name":"This is the first form"
+              }],
         "next_evolution": [
         {
           "num": "458",
@@ -13684,6 +14901,11 @@
         "weaknesses": [
           "Land"
         ],
+        "prev_evolution":
+              [{
+                  "num":"0",
+                  "name":"This is the first form"
+              }],
         "next_evolution": [
           {
           "num": "435",
@@ -13715,6 +14937,11 @@
         "weaknesses": [
           "Land"
         ],
+        "prev_evolution":
+            [{
+              "num":"0",
+              "name":"This is the first form"
+            }],
         "next_evolution": [
           {
           "num": "0",
@@ -13750,6 +14977,11 @@
           "Ghost",
           "Sinister"
         ],
+        "prev_evolution":
+          [{
+            "num":"0",
+            "name":"This is the first form"
+          }],
         "next_evolution": [
           {
           "num": "437",
@@ -13783,6 +15015,11 @@
           "Ghost",
           "Sinister"
         ],
+        "prev_evolution":
+        [{
+          "num":"0",
+          "name":"This is the first form"
+        }],
         "next_evolution": [
           {
           "num": "0",
@@ -13817,6 +15054,11 @@
           "Steel",
           "Water"
         ],
+        "prev_evolution":
+        [{
+          "num":"0",
+          "name":"This is the first form"
+        }],
         "next_evolution": [
           {
           "num": "185",
@@ -13850,6 +15092,11 @@
           "steel",
           "poison"
         ],
+        "prev_evolution":
+        [{
+          "num":"0",
+          "name":"This is the first form"
+        }],
         "next_evolution": [
           {
           "num": "122",
@@ -13881,6 +15128,11 @@
         "weaknesses": [
           "Fight"
         ],
+        "prev_evolution":
+        [{
+          "num":"0",
+          "name":"This is the first form"
+        }],
         "next_evolution": [
           {
           "num": "113",
@@ -13914,6 +15166,11 @@
           "Ice",
           "rock"
         ],
+        "prev_evolution":
+        [{
+          "num":"0",
+          "name":"This is the first form"
+        }],
         "next_evolution": [
           {
           "num": "0",
@@ -13945,6 +15202,11 @@
         "weaknesses": [
           "Fairy"
         ],
+        "prev_evolution":
+        [{
+          "num":"0",
+          "name":"This is the first form"
+        }],
         "next_evolution": [
           {
           "num": "0",
@@ -13977,6 +15239,11 @@
           "Dragon", 
           "Fairy"
         ],
+        "prev_evolution":
+        [{
+          "num":"0",
+          "name":"This is the first form"
+        }],
         "next_evolution": [
           {
           "num": "444",
@@ -14010,6 +15277,11 @@
           "Dragon", 
           "Fairy"
         ],
+        "prev_evolution":
+        [{
+          "num":"0",
+          "name":"This is the first form"
+        }],
         "next_evolution": [
           {
           "num": "445",
@@ -14043,6 +15315,11 @@
           "Dragon", 
           "Fairy"
         ],
+        "prev_evolution":
+        [{
+          "num":"0",
+          "name":"This is the first form"
+        }],
         "next_evolution": [
           {
           "num": "0",
@@ -14073,6 +15350,11 @@
         "weaknesses": [
           "Fight"
         ],
+         "prev_evolution":
+          [{
+            "num":"0",
+            "name":"This is the first form"
+          }],
         "next_evolution": [
           {
           "num": "143",
@@ -14105,6 +15387,11 @@
           "Psychc",
           "Fairy"
         ],
+        "prev_evolution":
+        [{
+          "num":"0",
+          "name":"This is the first form"
+        }],
         "next_evolution": [
           {
           "num": "448",
@@ -14138,6 +15425,11 @@
           "Fire",
           "Ground"
         ],
+        "prev_evolution":
+        [{
+          "num":"0",
+          "name":"This is the first form"
+        }],
         "next_evolution": [
           {
           "num": "0",
@@ -14170,6 +15462,11 @@
           "Ice",
           "Water"
         ],
+        "prev_evolution":
+        [{
+          "num":"0",
+          "name":"This is the first form"
+        }],
         "next_evolution": [
           {
           "num": "450",
@@ -14202,6 +15499,11 @@
           "Ice",
           "Water"
         ],
+        "prev_evolution":
+        [{
+          "num":"0",
+          "name":"This is the first form"
+        }],
         "next_evolution": [
           {
           "num": "0",
@@ -14236,6 +15538,11 @@
           "Pyschc",
           "Rock"
         ],
+        "prev_evolution":
+        [{
+          "num":"0",
+          "name":"This is the first form"
+        }],
         "next_evolution": [
           {
           "num": "452",
@@ -14267,6 +15574,11 @@
         "weaknesses": [
           "Ground"
         ],
+        "prev_evolution":
+        [{
+          "num":"0",
+          "name":"This is the first form"
+        }],
         "next_evolution": [
           {
           "num": "0",
@@ -14298,6 +15610,11 @@
           "Psychic",
           "Ground"
         ],
+        "prev_evolution":
+        [{
+          "num":"0",
+          "name":"This is the first form"
+        }],
         "next_evolution": [{
           "num": "454",
           "name": "Toxicroak"
@@ -14360,6 +15677,11 @@
           "Flying",
           "Poison"
         ],
+        "prev_evolution":
+        [{
+          "num":"0",
+          "name":"This is the first form"
+        }],
         "next_evolution": [{
           "num": "0",
           "name": "This is the final Evolution"
@@ -14385,6 +15707,11 @@
           "Electric",
           "Grass"
         ],
+        "prev_evolution":
+        [{
+          "num":"0",
+          "name":"This is the first form"
+        }],
         "next_evolution": [{
           "num": "457",
           "name": "Lumineon"
@@ -14440,6 +15767,11 @@
           "Electric",
           "Rock"
         ],
+        "prev_evolution":
+        [{
+          "num":"0",
+          "name":"This is the first form"
+        }],
         "next_evolution": [{
           "num": "226",
           "name": "Mantine"
@@ -14471,6 +15803,11 @@
           "Rock",
           "Steel"
         ],
+        "prev_evolution":
+        [{
+          "num":"0",
+          "name":"This is the first form"
+        }],
         "next_evolution": [{
           "num": "460",
           "name": "Abomasnow"
@@ -14536,6 +15873,11 @@
           "Rock",
           "Steel"
         ],
+        "prev_evolution":
+        [{
+          "num":"0",
+          "name":"This is the first form"
+        }],
           "next_evolution": [{
           "num": "0",
           "name": "This is the final Evolution"
@@ -14563,6 +15905,11 @@
           "Flying",
           "Ground"
         ],
+        "prev_evolution":
+        [{
+          "num":"0",
+          "name":"This is the first form"
+        }],
         "next_evolution": [{
            "num": "0",
            "name": "This is the final Evolution"
@@ -15007,7 +16354,7 @@
               "Ghost",
               "Fairy"
             ],
-            "previous_evolution": [
+            "prev_evolution": [
               {
                 "num": "280",
                 "name": "Ralts"
@@ -15054,7 +16401,7 @@
               "Land",
               "Water"
             ],
-            "previous_evolution": [
+            "prev_evolution": [
               {
                 "num": "299",
                 "name": "Nosepass"
@@ -15090,7 +16437,7 @@
               "Sinister",
               "Ghost"
             ],
-            "previous_evolution": [
+            "prev_evolution": [
               {
                 "num": "355",
                 "name": "Duskull"
@@ -15134,7 +16481,7 @@
               "Rock",
               "Steel"
             ],
-            "previous_evolution": [
+            "prev_evolution": [
               {
                 "num": "361",
                 "name": "Snorunt"
@@ -15175,6 +16522,11 @@
               "Sinister",
               "Ghost"
             ],
+            "prev_evolution":
+            [{
+              "num":"0",
+              "name":"This is the first form"
+            }],
             "next_evolution": [
               {
                 "num": "000",
@@ -15206,6 +16558,11 @@
               "Sinister",
               "Ghost"
             ],
+            "prev_evolution":
+            [{
+              "num":"0",
+              "name":"This is the first form"
+            }],
             "next_evolution": [
               {
                 "num": "000",
@@ -15238,6 +16595,11 @@
               "Sinister",
               "Ghost"
             ],
+            "prev_evolution":
+            [{
+              "num":"0",
+              "name":"This is the first form"
+            }],
             "next_evolution": [
               {
                 "num": "000",
@@ -15270,6 +16632,11 @@
               "Sinister",
               "Ghost"
             ],
+            "prev_evolution":
+            [{
+              "num":"0",
+              "name":"This is the first form"
+            }],
             "next_evolution": [
               {
                 "num": "000",
@@ -15302,6 +16669,11 @@
               "Fight",
               "Land"
             ],
+            "prev_evolution":
+            [{
+              "num":"0",
+              "name":"This is the first form"
+            }],
             "next_evolution": [
               {
                 "num": "000",
@@ -15334,6 +16706,11 @@
               "Dragon",
               "Fairy"
             ],
+            "prev_evolution":
+            [{
+              "num":"0",
+              "name":"This is the first form"
+            }],
             "next_evolution": [
               {
                 "num": "000",
@@ -15367,6 +16744,11 @@
               "Fight",
               "Water"
             ],
+            "prev_evolution":
+            [{
+              "num":"0",
+              "name":"This is the first form"
+            }],
             "next_evolution": [
               {
                 "num": "000",
@@ -15397,6 +16779,11 @@
             "weaknesses": [
               "Fight"
             ],
+            "prev_evolution":
+            [{
+              "num":"0",
+              "name":"This is the first form"
+            }],
             "next_evolution": [
               {
                 "num": "000",
@@ -15432,6 +16819,11 @@
               "Ice",
               "Fairy"
             ],
+            "prev_evolution":
+            [{
+              "num":"0",
+              "name":"This is the first form"
+            }],
             "next_evolution": [
               {
                 "num": "000",
@@ -15464,6 +16856,11 @@
               "Sinister",
               "Ghost"
             ],
+            "prev_evolution":
+            [{
+              "num":"0",
+              "name":"This is the first form"
+            }],
             "next_evolution": [
               {
                 "num": "000",
@@ -15495,6 +16892,11 @@
               "Electronic",
               "Plant"
             ],
+            "prev_evolution":
+            [{
+              "num":"0",
+              "name":"This is the first form"
+            }],
             "next_evolution": [
               {
                 "num": "000",
@@ -15526,6 +16928,11 @@
               "Electronic",
               "Plant"
             ],
+            "prev_evolution":
+            [{
+              "num":"0",
+              "name":"This is the first form"
+            }],
             "next_evolution": [
               {
                 "num": "000",
@@ -15558,6 +16965,11 @@
               "Bug",
               "Fairy"
             ],
+            "prev_evolution":
+            [{
+              "num":"0",
+              "name":"This is the first form"
+            }],
             "next_evolution": [
               {
                 "num": "000",
@@ -15592,6 +17004,11 @@
               "Ice",
               "Poison"
             ],
+            "prev_evolution":
+            [{
+              "num":"0",
+              "name":"This is the first form"
+            }],
             "next_evolution": [
               {
                 "num": "000",
@@ -15622,6 +17039,11 @@
             "weaknesses": [
               "Fight"
             ],
+            "prev_evolution":
+            [{
+              "num":"0",
+              "name":"This is the first form"
+            }],
             "next_evolution": [
               {
                 "num": "000",
@@ -15656,6 +17078,11 @@
     "Ghost",
     "Sinister"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
         {
           "num": "000",
@@ -15886,6 +17313,12 @@
     "Flying",
     "Psychic"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
+  
     "next_evolution": [
     {
     "num": "498",
@@ -15996,6 +17429,11 @@
     "Grass",
     "Electric"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "501",
@@ -16029,6 +17467,11 @@
     "weaknesses": [
     "Fight"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "505",
@@ -16058,6 +17501,11 @@
     "weaknesses": [
     "Fight"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "504",
@@ -16087,6 +17535,11 @@
     "weaknesses": [
     "Fight"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "507",
@@ -16120,6 +17573,11 @@
     "weaknesses": [
     "Fight"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "506",
@@ -16149,6 +17607,11 @@
     "weaknesses": [
     "Fight"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "506",
@@ -16180,6 +17643,11 @@
     "Bug",
     "Fairy"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "510",
@@ -16211,6 +17679,11 @@
     "Ice",
     "Fairy"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "509",
@@ -16244,6 +17717,11 @@
     "Flying",
     "Bug"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "512",
@@ -16277,6 +17755,11 @@
     "Flying",
     "Bug"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "511",
@@ -16308,6 +17791,11 @@
     "Ground",
     "Rock"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "514",
@@ -16339,6 +17827,11 @@
     "Ground",
     "Rock"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "513",
@@ -16369,6 +17862,11 @@
     "Grass",
     "Electric"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "516",
@@ -16399,6 +17897,11 @@
     "Grass",
     "Electric"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "515",
@@ -16428,6 +17931,11 @@
     "Ghost",
     "Sinister"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "518",
@@ -16459,6 +17967,11 @@
     "Ghost",
     "Sinister"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "517",
@@ -16491,6 +18004,11 @@
     "Electric",
     "Rock"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "520",
@@ -16776,6 +18294,11 @@
     "Ghost",
     "Sinister"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "528",
@@ -16810,6 +18333,11 @@
     "Ghost",
     "Sinister"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
         {
           "num": "000",
@@ -16841,6 +18369,11 @@
     "plant",
     "ice"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "530",
@@ -16873,6 +18406,11 @@
     "plant",
     "ice"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "529",
@@ -16907,6 +18445,12 @@
     "num": "0",
     "name": "No tiene evolucion"
     }
+    ],
+    "next_evolution": [
+      {
+        "num": "000",
+        "name": "This is the final"
+      }
     ]
     },
     {
@@ -17482,6 +19026,11 @@
     "Flying",
     "Steel"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "547",
@@ -17514,7 +19063,18 @@
     "Ice",
     "Flying",
     "Psychic"
-    ]
+    ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
+    "next_evolution": [
+      {
+      "num": "0",
+      "name": "This is the final evolution"
+      }
+      ]
     },
     {
     "id": 548,
@@ -17596,6 +19156,11 @@
     "Electric",
     "Grass"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
         {
           "num": "000",
@@ -17666,6 +19231,11 @@
     "weaknesses": [
     "Water"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
         {
           "num": "000",
@@ -17695,6 +19265,11 @@
     "weaknesses": [
     "Water"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
         {
           "num": "000",
@@ -17725,6 +19300,11 @@
     "weaknesses": [
     "water"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "555",
@@ -17756,6 +19336,11 @@
     "weaknesses": [
     "Rock"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
         {
           "num": "000",
@@ -17784,6 +19369,11 @@
     "weaknesses": [
     "Fire"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
         {
           "num": "000",
@@ -17814,6 +19404,11 @@
     "weaknesses": [
     "Fire"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "558",
@@ -17845,6 +19440,11 @@
     "weaknesses": [
     "Fire"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
         {
           "num": "000",
@@ -17875,6 +19475,11 @@
     "weaknesses": [
     "Rock"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
         {
           "num": "000",
@@ -17906,6 +19511,11 @@
     "weaknesses": [
     "Rock"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
         {
           "num": "000",
@@ -17937,6 +19547,11 @@
     "weaknesses": [
     "Electric"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
         {
           "num": "000",
@@ -17965,6 +19580,11 @@
     "weaknesses": [
     "Dark"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "563",
@@ -17995,6 +19615,11 @@
     "weaknesses": [
     "Grass"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
         {
           "num": "000",
@@ -18025,6 +19650,11 @@
     "weaknesses": [
     "Grass"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "565",
@@ -18054,6 +19684,11 @@
     "weaknesses": [
     "Grass"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
         {
           "num": "000",
@@ -18120,6 +19755,11 @@
     "weaknesses": [
     "Fighting"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
         {
           "num": "000",
@@ -18150,6 +19790,11 @@
     "weaknesses": [
     "Pshich"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "569",
@@ -18178,6 +19823,11 @@
     "weaknesses": [
     "Pshich"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
         {
           "num": "000",
@@ -18208,6 +19858,11 @@
     "weaknesses": [
     "Rock"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "571",
@@ -18236,6 +19891,11 @@
     "weaknesses": [
     "Rock"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
         {
           "num": "000",
@@ -18265,6 +19925,11 @@
     "weaknesses": [
     "Rock"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "573",
@@ -18293,6 +19958,11 @@
     "weaknesses": [
     "Rock"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
         {
           "num": "000",
@@ -18326,6 +19996,11 @@
     "Flying",
     "Psychic"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "575",
@@ -18441,6 +20116,11 @@
     "Flying",
     "Psychic"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "578",
@@ -18560,6 +20240,11 @@
     "Flying",
     "Psychic"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "581",
@@ -18631,6 +20316,11 @@
     "Flying",
     "Psychic"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "583",
@@ -18668,6 +20358,11 @@
     "Flying",
     "Psychic"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "584",
@@ -18740,6 +20435,11 @@
     "Flying",
     "Psychic"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "586",
@@ -18813,6 +20513,11 @@
     "Flying",
     "Psychic"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
         {
           "num": "000",
@@ -18845,6 +20550,11 @@
     "Flying",
     "Psychic"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "589",
@@ -18878,6 +20588,11 @@
     "Flying",
     "Psychic"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "591",
@@ -18951,6 +20666,11 @@
     "Flying",
     "Psychic"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "593",
@@ -19023,6 +20743,11 @@
     "Flying",
     "Psychic"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
         {
           "num": "000",
@@ -19056,6 +20781,11 @@
     "Flying",
     "Psychic"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "596",
@@ -19129,6 +20859,11 @@
     "Flying",
     "Psychic"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "598",
@@ -19201,6 +20936,11 @@
     "Flying",
     "Psychic"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "600",
@@ -19276,6 +21016,11 @@
     "Flying",
     "Psychic"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "602",
@@ -19391,6 +21136,11 @@
     "Ground",
     "Rock"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "605",
@@ -19503,6 +21253,11 @@
     "Electric",
     "Grass"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "608",
@@ -19615,6 +21370,11 @@
     "Flying",
     "Rock"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "611",
@@ -19732,6 +21492,11 @@
     "Psychic",
     "Rock"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "614",
@@ -19847,6 +21612,11 @@
     "Electric",
     "Rock"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "617",
@@ -19957,6 +21727,11 @@
     "weaknesses": [
     "Fighting"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "620",
@@ -20022,6 +21797,11 @@
     "Electric",
     "Rock"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "622",
@@ -20156,6 +21936,11 @@
     "weaknesses": [
     "Ground"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "626",
@@ -20222,6 +22007,11 @@
     "Grass",
     "Ice"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "628",
@@ -20378,6 +22168,11 @@
     "Ground",
     "Rock"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "631",
@@ -20492,6 +22287,11 @@
     "Electric",
     "Grass"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "633",
@@ -20605,6 +22405,11 @@
     "Flying",
     "Rock"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "636",
@@ -20725,6 +22530,11 @@
     "Psychic",
     "Rock"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "640",
@@ -20842,6 +22652,11 @@
     "Electric",
     "Rock"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "643",
@@ -20954,6 +22769,11 @@
     "weaknesses": [
     "Fighting"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "646",
@@ -21022,6 +22842,11 @@
     "Electric",
     "Rock"
     ],
+    "prev_evolution":
+    [{
+      "num":"0",
+      "name":"This is the first form"
+    }],
     "next_evolution": [
     {
     "num": "648",
@@ -21089,7 +22914,12 @@
               "Ghost",
               "Fairy"
             ],
-            "next_evolution": [
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
+             "next_evolution": [
               {
                 "num": "651",
                 "name": "Quilladin"
@@ -21125,6 +22955,11 @@
               "Land",
               "Water"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "652",
@@ -21157,6 +22992,11 @@
               "Sinister",
               "Ghost"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -21191,6 +23031,11 @@
               "Rock",
               "Steel"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "654",
@@ -21226,6 +23071,11 @@
               "Sinister",
               "Ghost"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "655",
@@ -21259,6 +23109,11 @@
               "Sinister",
               "Ghost"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -21291,6 +23146,11 @@
               "Sinister",
               "Ghost"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "657",
@@ -21323,6 +23183,11 @@
               "Sinister",
               "Ghost"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "658",
@@ -21355,6 +23220,11 @@
               "Fight",
               "Land"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -21386,6 +23256,11 @@
               "Dragon",
               "Fairy"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "660",
@@ -21419,6 +23294,11 @@
               "Fight",
               "Water"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -21450,6 +23330,11 @@
             "weaknesses": [
               "Fight"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "662",
@@ -21485,6 +23370,11 @@
               "Ice",
               "Fairy"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "663",
@@ -21518,6 +23408,11 @@
               "Sinister",
               "Ghost"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -21549,6 +23444,11 @@
               "Electronic",
               "Plant"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "665",
@@ -21584,6 +23484,11 @@
               "Electronic",
               "Plant"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "666",
@@ -21617,6 +23522,11 @@
               "Bug",
               "Fairy"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -21652,6 +23562,11 @@
               "Ice",
               "Poison"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "668",
@@ -21683,6 +23598,11 @@
             "weaknesses": [
               "Fight"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -21715,6 +23635,11 @@
               "Ghost",
               "Fairy"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "280",
@@ -21755,6 +23680,11 @@
               "Land",
               "Water"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "671",
@@ -21786,6 +23716,11 @@
               "Sinister",
               "Ghost"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -21820,6 +23755,11 @@
               "Rock",
               "Steel"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "673",
@@ -21851,6 +23791,11 @@
               "Sinister",
               "Ghost"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -21883,6 +23828,11 @@
               "Sinister",
               "Ghost"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "675",
@@ -21916,6 +23866,11 @@
               "Sinister",
               "Ghost"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -21948,6 +23903,11 @@
               "Sinister",
               "Ghost"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -21979,6 +23939,11 @@
               "Fight",
               "Land"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "678",
@@ -22010,6 +23975,11 @@
               "Dragon",
               "Fairy"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -22043,6 +24013,11 @@
               "Fight",
               "Water"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "680",
@@ -22074,6 +24049,11 @@
             "weaknesses": [
               "Fight"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "681",
@@ -22109,6 +24089,11 @@
               "Ice",
               "Fairy"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -22141,6 +24126,11 @@
               "Sinister",
               "Ghost"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "683",
@@ -22172,6 +24162,11 @@
               "Electronic",
               "Plant"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -22203,6 +24198,11 @@
               "Electronic",
               "Plant"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "682",
@@ -22235,6 +24235,11 @@
               "Bug",
               "Fairy"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -22270,6 +24275,11 @@
               "Ice",
               "Poison"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "687",
@@ -22301,6 +24311,12 @@
             "weaknesses": [
               "Fight"
             ],
+
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -22333,6 +24349,11 @@
               "Ghost",
               "Fairy"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "689",
@@ -22366,6 +24387,11 @@
               "Land",
               "Water"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -22398,6 +24424,11 @@
               "Sinister",
               "Ghost"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -22433,6 +24464,11 @@
               "Rock",
               "Steel"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -22464,6 +24500,11 @@
               "Sinister",
               "Ghost"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "693",
@@ -22496,6 +24537,11 @@
               "Sinister",
               "Ghost"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -22529,6 +24575,11 @@
               "Sinister",
               "Ghost"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "695",
@@ -22562,6 +24613,11 @@
               "Sinister",
               "Ghost"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -22594,6 +24650,11 @@
               "Fight",
               "Land"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "697",
@@ -22626,6 +24687,11 @@
               "Dragon",
               "Fairy"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -22659,6 +24725,11 @@
               "Fight",
               "Water"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "699",
@@ -22690,6 +24761,11 @@
             "weaknesses": [
               "Fight"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -22722,6 +24798,11 @@
               "Sinister",
               "Ghost"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -22754,6 +24835,11 @@
               "Electronic",
               "Plant"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -22786,6 +24872,11 @@
               "Electronic",
               "Plant"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -22819,6 +24910,11 @@
               "Bug",
               "Fairy"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -22853,6 +24949,11 @@
               "Ice",
               "Poison"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "705",
@@ -22887,6 +24988,11 @@
               "Ice",
               "Poison"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "706",
@@ -22921,6 +25027,11 @@
               "Ice",
               "Poison"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -22956,6 +25067,11 @@
               "Ice",
               "Poison"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -22991,6 +25107,11 @@
               "Ice",
               "Poison"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "709",
@@ -23026,6 +25147,11 @@
               "Ice",
               "Poison"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -23061,6 +25187,11 @@
               "Ice",
               "Poison"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "711",
@@ -23096,6 +25227,11 @@
               "Ice",
               "Poison"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -23130,6 +25266,11 @@
               "Ice",
               "Poison"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "713",
@@ -23164,6 +25305,11 @@
               "Ice",
               "Poison"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -23199,6 +25345,11 @@
               "Ice",
               "Poison"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "715",
@@ -23234,6 +25385,11 @@
               "Ice",
               "Poison"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -23268,6 +25424,11 @@
               "Ice",
               "Poison"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -23303,6 +25464,11 @@
               "Ice",
               "Poison"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -23338,6 +25504,11 @@
               "Ice",
               "Poison"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -23373,6 +25544,11 @@
               "Ice",
               "Poison"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -23408,6 +25584,11 @@
               "Ice",
               "Poison"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -23443,6 +25624,11 @@
               "Ice",
               "Poison"
             ],
+            "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
             "next_evolution": [
               {
                 "num": "000",
@@ -23474,6 +25660,11 @@
         "Poison",
         "Rock"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "723",
@@ -23580,6 +25771,11 @@
         "Land",
         "Rock"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "726",
@@ -23681,6 +25877,11 @@
         "Grass",
         "Electric"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "729",
@@ -23782,6 +25983,11 @@
         "Ice",
         "Rock"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "732",
@@ -23882,6 +26088,11 @@
         "weaknesses": [
         "Fight"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "735",
@@ -23942,6 +26153,11 @@
         "Flying",
         "Rock"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "737",
@@ -24046,6 +26262,11 @@
         "Fairy",
         "Psychic"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "740",
@@ -24113,6 +26334,11 @@
         "Rock",
         "Electric"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "0",
@@ -24144,6 +26370,11 @@
         "Poison",
         "Steel"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "743",
@@ -24211,6 +26442,11 @@
         "Fight",
         "Land"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "745",
@@ -24274,6 +26510,11 @@
         "Plant",
         "Electric"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "0",
@@ -24303,6 +26544,11 @@
         "Electric",
         "Land"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "748",
@@ -24366,6 +26612,11 @@
         "Plant",
         "Ice"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "750",
@@ -24429,6 +26680,11 @@
         "Electric",
         "Rock"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "752",
@@ -24496,6 +26752,11 @@
         "Flying",
         "Bug"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "754",
@@ -24565,6 +26826,11 @@
         "Flying",
         "Acero"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "756",
@@ -24634,6 +26900,11 @@
         "Psychic",
         "Rock"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "758",
@@ -24702,6 +26973,11 @@
         "Psychic",
         "Fairy"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "760",
@@ -24770,6 +27046,11 @@
         "Ice",
         "Bug"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "762",
@@ -24880,6 +27161,11 @@
         "Poison",
         "Acero"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "0",
@@ -24909,6 +27195,11 @@
         "Bug",
         "Dark"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "0",
@@ -24938,6 +27229,11 @@
         "Psychic",
         "Fairy"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "0",
@@ -24969,6 +27265,11 @@
         "Rock",
         "Fire"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "768",
@@ -25037,6 +27338,11 @@
         "Ghost",
         "Dark"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "770",
@@ -25101,6 +27407,11 @@
         "Grass",
         "Electric"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "0",
@@ -25127,6 +27438,11 @@
         "weaknesses": [
         "Fighting"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "773",
@@ -25192,6 +27508,11 @@
         "Electric",
         "Ice"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "0",
@@ -25219,6 +27540,11 @@
         "Grass",
         "Electric"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "0",
@@ -25251,6 +27577,11 @@
         "Rock",
         "Water"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "0",
@@ -25280,6 +27611,11 @@
         "Fighting",
         "Fire"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "0",
@@ -25310,6 +27646,11 @@
         "Poison",
         "Steel"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "0",
@@ -25341,6 +27682,11 @@
         "Grass",
         "Electric"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "0",
@@ -25372,6 +27718,11 @@
         "Dragon",
         "Fairy"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "0",
@@ -25405,6 +27756,11 @@
         "Ghost",
         "Dark"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "0",
@@ -25433,6 +27789,11 @@
         "Dragon",
         "Fairy"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "783",
@@ -25543,6 +27904,11 @@
         "Poison",
         "Land"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "0",
@@ -25572,6 +27938,11 @@
         "Ghost",
         "Steel"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "0",
@@ -25603,6 +27974,11 @@
         "Ice",
         "Steel"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "0",
@@ -25632,6 +28008,11 @@
         "Poison",
         "Electric"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "0",
@@ -25660,6 +28041,11 @@
         "Ghost",
         "Sinister"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "790",
@@ -25774,7 +28160,7 @@
         "Ghost",
         "Sinister"
         ],
-        "prev0_evolution": [
+        "prev_evolution": [
         {
         "num": "789",
         "name": "Cosmong"
@@ -25818,6 +28204,11 @@
         "Psychc",
         "Steel"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "0",
@@ -25847,6 +28238,11 @@
         "Psychc",
         "Fairy"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "0",
@@ -25877,6 +28273,11 @@
         "Psychc",
         "Fairy"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "0",
@@ -25903,6 +28304,11 @@
         "weaknesses": [
         "Land"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "0",
@@ -25931,6 +28337,11 @@
         "Electric",
         "Fire"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "0",
@@ -25959,6 +28370,11 @@
         "Fire",
         "Fighting"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "0",
@@ -25990,6 +28406,11 @@
         "Ice",
         "Dragon"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "0",
@@ -26018,6 +28439,11 @@
         "Ghost",
         "Sinister"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "0",
@@ -26046,6 +28472,11 @@
         "Fire",
         "Earth"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "0",
@@ -26076,6 +28507,11 @@
         "Psychic",
         "Flying"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "0",
@@ -26103,6 +28539,11 @@
         "Psychic",
         "Earth"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "804",
@@ -26168,6 +28609,11 @@
         "Fighting",
         "Iron"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "0",
@@ -26199,6 +28645,11 @@
         "Sinister",
         "Earth"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "0",
@@ -26225,6 +28676,11 @@
         "weaknesses": [
         "Earth"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "0",
@@ -26253,6 +28709,11 @@
         "Fighting",
         "Earth"
         ],
+        "prev_evolution":
+            [{
+                "num":"0",
+                "name":"This is the first form"
+              }],
         "next_evolution": [
         {
         "num": "809",
